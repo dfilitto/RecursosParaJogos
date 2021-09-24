@@ -1,0 +1,7 @@
+Material retirado de:
+- https://freesound.org/
+- https://www.raywenderlich.com/
+- https://fontmeme.com/pt/
+Links úteis:
+- https://docs.nvidia.com/gameworks/index.html#developertools/mobile/codeworks_android/codeworks_android_1r8.htm
+- https://github.com/dfilitto/RecursosParaJogos
